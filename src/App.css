@@ -1,0 +1,17 @@
+
+body{
+  background-color: antiquewhite;
+}
+.App{
+  margin: 50px 100px;
+}
+
+h1,h3{
+  text-align: center;
+}
+
+p{
+  margin-left: 200px ; 
+  inline-size: 68%;
+  text-align: center;
+}
